@@ -9,7 +9,7 @@ Steam版 **Out of the Park Baseball 27**（Windows）を日本語で遊べるよ
 
 ## ダウンロード
 
-**[最新版はこちら（Releases）](../../releases/latest)** から `OOTP27日本語化.exe` をダウンロードしてください。
+**[最新版はこちら（Releases）](../../releases/latest)** から `ootp27-ja.exe` をダウンロードしてください。
 
 ## 日本語になるところ
 
@@ -22,7 +22,7 @@ Steam版 **Out of the Park Baseball 27**（Windows）を日本語で遊べるよ
 ## 入れ方
 
 1. Steam のライブラリで OOTP27 を右クリック →「プロパティ」→「一般」の「起動オプション」に `enable_all_languages` と入力する
-2. ゲームを終了した状態で `OOTP27日本語化.exe` をダブルクリックする
+2. ゲームを終了した状態で `ootp27-ja.exe` をダブルクリックする
    - 「Windows によって PC が保護されました」と出たら、「詳細情報」→「実行」を押してください（個人が作ったプログラムに出る表示です）
 3. 黒い画面に番号の一覧が出るので、`1` と入力して Enter を押す（数分かかります）
 4. ゲームを起動し、Settings → Change Language で **JAPANESE** を選ぶ
